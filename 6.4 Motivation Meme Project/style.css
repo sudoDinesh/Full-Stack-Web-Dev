@@ -1,0 +1,17 @@
+body{
+    background: black;
+}
+
+img{
+    border: 5px solid white;
+}
+
+.a {
+  color:white;
+  text-align: center;
+  margin: 180px;
+}
+
+h1{
+    font-variant:n;
+}
